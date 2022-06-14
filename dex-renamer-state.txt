@@ -1,0 +1,4 @@
+#Mon Dec 13 18:12:33 BRT 2021
+base.0=/Users/yuri/StudioProjects/cat_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
